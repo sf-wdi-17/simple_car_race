@@ -1,3 +1,5 @@
+require_relative './car'
+
 class Race
 	attr_reader :cars
 
